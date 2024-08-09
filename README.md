@@ -24,7 +24,7 @@ No momento não, porem caso você queira agregar algo ao nosso querido Carneirin
 
 Este projeto está licenciado sob a [Licença Apache 2.0](http://www.apache.org/licenses/), datada de janeiro de 2004. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes sobre os termos da licença.
 
-#### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 <div style="display: inline_block">
   <img align="center" alt="PI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@ Este projeto está licenciado sob a [Licença Apache 2.0](http://www.apache.org/
 
 </div>
 
-#### Outras ferramentas
+### Outras ferramentas
 
 > ##### Ferramentas de Prototipação e Construção de Fluxos
 > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="40" height="30" />
