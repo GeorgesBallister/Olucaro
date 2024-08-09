@@ -52,3 +52,5 @@ Este projeto está licenciado sob a [Licença Apache 2.0](http://www.apache.org/
 
 
 Aproveite e divirta-se desvendando os segredos de Olucaro, o Senhor dos Segredos!
+
+>PS: tente encontrar todos os eastereggs... Boa sorte!
